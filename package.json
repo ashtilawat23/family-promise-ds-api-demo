@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ashtilawat23/family-promise-ds-api-demo/issues"
   },
-  "homepage": "https://github.com/ashtilawat23/family-promise-ds-api-demo#readme"
+  "homepage": "https://github.com/ashtilawat23/family-promise-ds-api-demo#readme",
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
 }
