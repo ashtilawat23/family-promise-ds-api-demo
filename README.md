@@ -60,4 +60,4 @@ axios.post('http://family-promise-dev.us-east-1.elasticbeanstalk.com/geocode/', 
 
 # Loom video on how to run this demo 
 
-![Loom video on /geocode/](https://www.loom.com/share/c9cbc8b910b64009b945274bf4d7ac20)
+[Loom video on /geocode/](https://www.loom.com/share/c9cbc8b910b64009b945274bf4d7ac20)
